@@ -28,6 +28,7 @@ Margins, paddings, and borders.
  - Improve readability and aesthetics.
 
 Happy Coding! 💻✨
+
 **ANSWERS**/* Global Styles */
 body {
     font-family: 'Arial', sans-serif;
@@ -84,6 +85,7 @@ body {
     margin-top: 20px;
     border-top: 4px solid #555;
 }
+
 **APPLYING CSS TO HTML**
 <!DOCTYPE html>
 <html>
