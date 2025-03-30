@@ -29,7 +29,8 @@ Margins, paddings, and borders.
 
 Happy Coding! 💻✨
 
-**ANSWERS**/* Global Styles */
+**ANSWERS**
+/* Global Styles */
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
